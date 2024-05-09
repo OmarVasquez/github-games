@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games - Diana Alberto
 
-A project based learning activity for people actualiza main01 who are getting started with Git and GitHub.
+A project based learning activity for people actualiza main01CAMBIO DESDE MAIN02 Actualiza main who are getting started with Git and GitHub.
 
 You can play the game at: https://githubschool.github.io/github-games/
 
